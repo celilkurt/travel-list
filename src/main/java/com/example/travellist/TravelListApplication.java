@@ -14,8 +14,6 @@ public class TravelListApplication {
 
 
 
-	@Bean
-	public BCryptPasswordEncoder bCryptPasswordEncoder() {
-		return new BCryptPasswordEncoder();
-	}
+
+
 }
